@@ -20,7 +20,12 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Enlace**: https://youtu.be/HqjMJmcstWI
 - **Conclusiones clave**: Usa int, String; declara como int age = 16;
 - **Práctica**: https://www.jdoodle.com/ia/1MKy 👈 **¡Empieza a programar!**
-  
+
+### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (10 minutos)
+- *Descripción*: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
+- *Enlace*: https://youtu.be/6IfJ7Kqq3o4
+- *Conclusiones clave*: ppublic static void saludar() {}; class Estudiante { String nombre; }
+- *Práctica: https://www.jdoodle.com/ia/1MKx 👈 **¡Empieza a programar!
 
 ## 👥 Elaboración
 Universidad Peruana de Ciencias Aplicadas
