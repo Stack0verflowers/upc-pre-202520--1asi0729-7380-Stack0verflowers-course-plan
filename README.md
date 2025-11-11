@@ -27,6 +27,12 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - *Conclusiones clave*: ppublic static void saludar() {}; class Estudiante { String nombre; }
 - *Práctica: https://www.jdoodle.com/ia/1MKx 👈 **¡Empieza a programar!
 
+### Lección 5: Fundamentos de POO y programas sencillos (20:58 minutos)
+- **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
+- **Enlace**: https://youtu.be/OeY7UEMA8xA
+- **Conclusiones clave**: Encapsulación con getters/setters; Sistema de biblioteca completo.
+- **Proyecto final**: https://www.jdoodle.com/ia/1ML4 👈 **¡Guarda y comparte!**
+
 ## 👥 Elaboración
 Universidad Peruana de Ciencias Aplicadas
 Carrera de Ingeniería de Software
