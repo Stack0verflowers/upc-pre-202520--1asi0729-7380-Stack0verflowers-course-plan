@@ -27,6 +27,12 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Conclusiones clave**: Usa int, String; declara como int age = 16;
 - **Práctica**: https://www.jdoodle.com/ia/1MKy 👈 **¡Empieza a programar!**
 
+### Lección 3: Leccion 3: Estructuras de control (if - else, for, while) (10:18 minutos)
+- *Descripción*: Toma decisiones con if-else y repite tareas con bucles.
+- *Enlace*: https://youtu.be/twhULFaKf2g
+- *Conclusiones clave*: if (edad > 12) {}; Aprende a usar condiciones
+- *Práctica: https://www.jdoodle.com/ia/1ML3 👈 *¡Inicio inmediato!**
+
 ### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (10 minutos)
 - *Descripción*: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
 - *Enlace*: https://youtu.be/6IfJ7Kqq3o4
