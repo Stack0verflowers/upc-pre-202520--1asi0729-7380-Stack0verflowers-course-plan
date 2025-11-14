@@ -45,13 +45,54 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Conclusiones clave**: Encapsulación con getters/setters; Sistema de biblioteca completo.
 - **Proyecto final**: https://www.jdoodle.com/ia/1ML4 👈 **¡Guarda y comparte!**
 
+### Lección 6: Consejos y próximos pasos (7 minutos)
+- **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
+- **Enlace**: https://youtu.be/ags1snhDhSI
+- **Consejos clave**: Depurar errores, explorar la documentación de las lecciones de Java, practicar mas.
+- **Compartir tu trabajo**: https://forms.gle/sLY3qp2d1Gh8cXB16
+## Recursos adicionales
+- **Código fuente completo**: https://www.jdoodle.com/ia/1ML6
+- **Playlist Completa**: https://www.youtube.com/playlist?list=PL8VfTRBlqQTDg6t9JPhlFkzLjgAmne5Ef
+- **Todas las actividades prácticas**:
+| Número de lección | Actividad | Empezar a programar |
+|----------|----------|-------------|
+| 1 | Introduccion a Java |  https://www.jdoodle.com/ia/1MS3|
+| 2 | Variables y tipos de Datos |https://www.jdoodle.com/ia/1MKy |
+| 3 | Estructuras de control (if - else, for, while) | https://www.jdoodle.com/ia/1ML3 |
+| 4 | Métodos, Entrada/Salida e Introducción a la POO |https://www.jdoodle.com/ia/1MKx  |
+| 5 | Fundamentos de POO y programas sencillos |https://www.jdoodle.com/ia/1ML4  |
+| 6 | Conclusiones y Recomendaciones (Ejercicios) |https://www.jdoodle.com/ia/1N2x |
+- Cuestionario: https://forms.gle/Nqx3FMAgh6s5gwm27
+- Compartir: #JavaBeginners
+**¡Gracias por completar el curso!**
+---
 ## 👥 Elaboración
 Universidad Peruana de Ciencias Aplicadas
+
 Carrera de Ingeniería de Software
+
 Período 202520
+
 1ASI0729 Desarrollo de Aplicaciones Open Source
+
 NRC [7380]
+
 **Nombre del equipo**: [Stack0verflowers]
+
+**Líder del equipo**: [Contreras Leon, Flor De María]
+
+**Integrantes del equipo**: 
+[Contreras Leon, Flor De María]
+
+[Apaza Bocanegra, Elizabeth Noelia]
+
+[Guillen Galindo, Julio Adolfo]
+
+[Miraval Pomalaya, Rodrigo Jesus]
+
+[Navarro Chinga, Antonio Jhair]
+
+**Fecha de entrega**: [14/11/2025]
 **Líder del equipo**: [Flor de Maria Contreras Leon]
 **Integrantes del equipo**: 
 [Flor de Maria Contreras Leon]
