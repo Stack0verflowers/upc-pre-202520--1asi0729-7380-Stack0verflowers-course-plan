@@ -95,8 +95,3 @@ NRC [7380]
 [Navarro Chinga, Antonio Jhair]
 
 **Fecha de entrega**: [14/11/2025]
-**Líder del equipo**: [Flor de Maria Contreras Leon]
-**Integrantes del equipo**: 
-[Flor de Maria Contreras Leon]
-[Elizabeth Noelia Apaza Bocanegra]
-**Fecha de entrega**: [Fecha]
