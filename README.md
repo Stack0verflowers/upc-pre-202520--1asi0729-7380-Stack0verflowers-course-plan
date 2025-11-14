@@ -54,6 +54,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Código fuente completo**: https://www.jdoodle.com/ia/1ML6
 - **Playlist Completa**: https://www.youtube.com/playlist?list=PL8VfTRBlqQTDg6t9JPhlFkzLjgAmne5Ef
 - **Todas las actividades prácticas**:
+- 
 | Número de lección | Actividad | Empezar a programar |
 |----------|----------|-------------|
 | 1 | Introduccion a Java |  https://www.jdoodle.com/ia/1MS3|
@@ -62,6 +63,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 | 4 | Métodos, Entrada/Salida e Introducción a la POO |https://www.jdoodle.com/ia/1MKx  |
 | 5 | Fundamentos de POO y programas sencillos |https://www.jdoodle.com/ia/1ML4  |
 | 6 | Conclusiones y Recomendaciones (Ejercicios) |https://www.jdoodle.com/ia/1N2x |
+
 - Cuestionario: https://forms.gle/Nqx3FMAgh6s5gwm27
 - Compartir: #JavaBeginners
 **¡Gracias por completar el curso!**
