@@ -25,7 +25,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
 - **Enlace**: https://youtu.be/HqjMJmcstWI
 - **Conclusiones clave**: Usa int, String; declara como int age = 16;
-- **Práctica**: https://www.jdoodle.com/ia/1MKy 👈 **¡Empieza a programar!**
+- **Práctica**: https://www.jdoodle.com/ia/1N2Z 👈 **¡Empieza a programar!**
 
 ### Lección 3: Leccion 3: Estructuras de control (if - else, for, while) (10:18 minutos)
 - *Descripción*: Toma decisiones con if-else y repite tareas con bucles.
@@ -37,7 +37,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - *Descripción*: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
 - *Enlace*: https://youtu.be/6IfJ7Kqq3o4
 - *Conclusiones clave*: ppublic static void saludar() {}; class Estudiante { String nombre; }
-- *Práctica: https://www.jdoodle.com/ia/1MKx 👈 **¡Empieza a programar!
+- *Práctica: https://www.jdoodle.com/ia/1N30 👈 **¡Empieza a programar!
 
 ### Lección 5: Fundamentos de POO y programas sencillos (20:58 minutos)
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
@@ -51,16 +51,16 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Consejos clave**: Depurar errores, explorar la documentación de las lecciones de Java, practicar mas.
 - **Compartir tu trabajo**: https://forms.gle/sLY3qp2d1Gh8cXB16
 ## Recursos adicionales
-- **Código fuente completo**: https://www.jdoodle.com/ia/1ML6
+- **Código fuente completo**: https://www.jdoodle.com/ia/1N32
 - **Playlist Completa**: https://www.youtube.com/playlist?list=PL8VfTRBlqQTDg6t9JPhlFkzLjgAmne5Ef
 - **Todas las actividades prácticas**:
 - 
 | Número de lección | Actividad | Empezar a programar |
 |----------|----------|-------------|
 | 1 | Introduccion a Java |  https://www.jdoodle.com/ia/1MS3|
-| 2 | Variables y tipos de Datos |https://www.jdoodle.com/ia/1MKy |
+| 2 | Variables y tipos de Datos |https://www.jdoodle.com/ia/1N2Z|
 | 3 | Estructuras de control (if - else, for, while) | https://www.jdoodle.com/ia/1ML3 |
-| 4 | Métodos, Entrada/Salida e Introducción a la POO |https://www.jdoodle.com/ia/1MKx  |
+| 4 | Métodos, Entrada/Salida e Introducción a la POO |https://www.jdoodle.com/ia/1MKx](https://www.jdoodle.com/ia/1N30|
 | 5 | Fundamentos de POO y programas sencillos |https://www.jdoodle.com/ia/1ML4  |
 | 6 | Conclusiones y Recomendaciones (Ejercicios) |https://www.jdoodle.com/ia/1N2x |
 
